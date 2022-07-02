@@ -1,5 +1,8 @@
-### Olá! Seja bem-vindo ao meu Git-Hub.
-### Eu sou o Rafael. ✌
+### Hi! Welcome to my Git-Hub
+Olá! Seja bem-vindo ao meu Git-Hub
+### My name is Rafael.
+Eu sou o Rafael.
+
 
 <div align="center">
   <a href="https://github.com/rafaelspirlandelli">
